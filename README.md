@@ -2,26 +2,26 @@
 
 Veo que llegaste hasta nuestro espacio donde queremos generar un lugar para quienes esten aprendiendo puedan dar sus primeros pasos.
 
-El foco es tener proyectos que **no tengan futuro** y extremadamente desacoplados, para hacerlos lo mas accesibles y amigables para quienes empiecen.
-Ademas queremos que sea todo en castellano. 
+El foco es tener proyectos que **no tengan futuro** y extremadamente desacoplados, para hacerlos lo más accesibles y amigables para quienes recién empiecen.
+Además queremos que todo sea en castellano. 
 
-:!!: A continuacion van a haber muchas palabras que pueden llegar a sonar muy complicadas, pero no desistas, con el tiempo y mucha practica van a ser algo muy comun en tu vocabulario.
+:!!: A continuación van a haber muchas palabras que pueden llegar a sonar muy complicadas, pero no desistas, con el tiempo y mucha práctica van a ser algo muy común en tu vocabulario.
 
 ### Algunos puntos que queremos trabajar
 
-#### Aprender a usar las herramientas de colaboracion
+#### Aprender a usar las herramientas de colaboración
 
-- Como interactuar en Github creando commits, pull requests, reviews
-- Como documentar nuestro trabajo y explicar las deciciones
+- Como interactuar en Github creando *commits, pull requests, reviews ...*
+- Como documentar nuestro trabajo y explicar las deciciones que se fueron tomando en el camino
 
 #### Aprender a investigar como resolver un problema de distintas maneras
 
-- Conocer los lugares comunes donde podemos obtener informacion y ejemplos
-- Saber formular las preguntas, contextualizando y fundamentando
+- Conocer los lugares comunes donde podemos obtener información y ejemplos
+- Saber formular y responder las preguntas. Contextualizando y fundamentando
 
 #### Recopilar muchas soluciones 
 
-- Casi nunca existe una unica solucion a un problema ?pero en que difieren las soluciones? ?Cuando es mejor utilizar una u otra?
+- Casi nunca existe una única solución a un problema. Pero, ¿en qué difieren las soluciones? ?Cuándo es mejor utilizar una u otra?
 
 
 ### Pueden acercarse y colaborar en:
@@ -31,6 +31,8 @@ Ademas queremos que sea todo en castellano.
 
 ## SE NECESITA AYUDA
 
-Como pudiste ver arriba, hay muchas cosas por hacer y siempre viene bien muchas manos extra :)
-?Se te ocurre algo mas que podamos implementar?
-?Queres colaborar con otra cosa?
+Como pudiste ver arriba, hay muchas cosas por hacer y siempre vienen bien muchas manos extra :)
+
+¿Se te ocurre algo mas que podamos implementar?
+
+¿Querés colaborar con otra cosa?
