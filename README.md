@@ -29,7 +29,48 @@ Además queremos que todo sea en castellano.
 - [Libro Interactivo](https://github.com/simplexsample/libro_interactivo)
 - [Recetas para graficar](https://github.com/simplexsample/recetas_para_graficar)
 
-## SE NECESITA AYUDA
+
+
+# ¿Qué esperamos del Aprendizaje Interactivo?
+
+## ¿Qué es este lugar?
+
+- Un espacio para poder experimentar
+
+## ¿En qué sentido *experimentar*?
+
+- Conocer y aprender formas del pensamiento computacional
+
+- Aprender a realizar trabajo colaborativo
+- Conocer las herramientas, las metodologías y los distintos procesos necesarios para poder colaborar
+
+## ¿Cómo puedo usar esto?
+
+- Como fuente de inspiracion para crear tu propio proyecto
+- Como espacio para aprender 
+- Como un espacio para compartir tus conocimientos
+
+
+## ¿A quién está dirigido?
+
+- Quien quiera aprender a programar realizando mini tareas y explicando algo aplicado
+- Quien quiera aprender a utilizar las herramientas colaborativas y sus procesos
+- Quien quiera aprender buenas practicas de desarrollo y armado de material educativo
+
+- Quien quiera enseñar un tema especifico aprovechando la interactividad
+- Quien quiera experimentar nuevas formas de generar material
+
+Bueno, se dan una idea ...
+
+
+### Ya existen muchos projectos colaborativos, ¿qué diferencia a éste?
+
+Si, existen varios projectos colaborativos donde se genera mucho material como [Wikipedia](https://www.wikipedia.org/) o [Algorithm Archive](https://www.algorithm-archive.org/), pero el foco de estos proyectos es el contenido.
+
+Acá lo que nos importa es el proceso de cómo generar el contenido y qué este contenido sea solo una excusa para aprender otras habilidades y herramientas.
+
+
+# SE NECESITA AYUDA
 
 Como pudiste ver arriba, hay muchas cosas por hacer y siempre vienen bien muchas manos extra :)
 
