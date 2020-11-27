@@ -36,3 +36,5 @@ Como pudiste ver arriba, hay muchas cosas por hacer y siempre vienen bien muchas
 ¿Se te ocurre algo mas que podamos implementar?
 
 ¿Querés colaborar con otra cosa?
+
+Este documento esta en [https://github.com/simplexsample](https://github.com/simplexsample)
